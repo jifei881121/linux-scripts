@@ -12,6 +12,7 @@ mirror_list_default=(
     "腾讯云@mirrors.tencent.com"
     "华为云@repo.huaweicloud.com"
     "网易@mirrors.163.com"
+    "搜狐@https://mirrors.sohu.com"
     "火山引擎@mirrors.volces.com"
     "清华大学@mirrors.tuna.tsinghua.edu.cn"
     "北京大学@mirrors.pku.edu.cn"
@@ -22,6 +23,7 @@ mirror_list_default=(
     "重庆邮电大学@mirrors.cqupt.edu.cn"
     "中国科学技术大学@mirrors.ustc.edu.cn"
     "中国科学院软件研究所@mirror.iscas.ac.cn"
+    "南阳理工学院@mirror.nyist.edu.cn"
 )
 # 中国大陆教育网格式："软件源名称@软件源地址"
 mirror_list_edu=(
